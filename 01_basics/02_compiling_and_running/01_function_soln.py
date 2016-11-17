@@ -9,7 +9,7 @@ def evaluate(x, y, z, x_value, y_value):
     y_value: A numpy value
 
     Returns the value of `z` when x_value is substituted for x
-    and y_value is substituted for y
+     and y_value is substituted for y
     """
     with tf.Session() as sess:
         out = sess.run(z, {x: x_value, y: y_value})
