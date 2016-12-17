@@ -2,7 +2,7 @@
 
 TensorFlow is the most popular deep learning library as of now (2016).
 
-This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary I focus on comparing TensorFlow functions with the equivalent functio1ns in NumPy, the de facto standard numerical computation library. I believe this will help you be comfortable with TensorFlow quickly.
+This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary I focus on comparing TensorFlow functions with the equivalent functions in NumPy, the de facto standard numerical computation library. I believe this will help you be comfortable with TensorFlow quickly.
 
 The basic outline will be as follows, though this is not 100% fixed.
 
