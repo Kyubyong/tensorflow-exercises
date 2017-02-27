@@ -7,6 +7,7 @@ This is designed to help those who want to familiarize themselves with TensorFlo
 The basic outline will be as follows, though this is not 100% fixed.
 
 * Constants, Sequences, and Random Values (DONE)
+* Graph (DONE)
 * Variables (DONE)
 * Tensor Transformations (DONE)
 * Math Part 1 (DONE)
