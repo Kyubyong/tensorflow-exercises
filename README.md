@@ -9,6 +9,7 @@ The basic outline will be as follows, though this is not 100% fixed.
 * Constants, Sequences, and Random Values (DONE)
 * Graphs (DONE)
 * Variables (DONE)
+* Reading Data (DONE)
 * Tensor Transformations (DONE)
 * Math Part 1 (DONE)
 * Math Part 2 (DONE)
