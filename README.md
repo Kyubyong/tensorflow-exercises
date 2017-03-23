@@ -19,6 +19,7 @@ The basic outline will be as follows, though this is not 100% fixed.
 * Images (WIP)
 * Sparse Tensors (WIP)
 * Neural Network Part 1 (DONE)
-* Neural Network Part 2 (WIP)
+* Neural Network Part 2 (DONE)
+* Neural Network Part 3 (WIP)
 
 To my knowledge, TensorFlow exercises are hard to find. Enjoy!
