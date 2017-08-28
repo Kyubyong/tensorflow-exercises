@@ -1,8 +1,8 @@
 # TensorFlow Exercises
 
-TensorFlow is the most popular deep learning library as of now (2017).
+TensorFlow is arugably the most popular deep learning library as of 2017.
 
-This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary I focus on comparing TensorFlow functions with the equivalent functions in NumPy, the de facto standard numerical computation library. I hope this will help you get comfortable with TensorFlow quickly.
+This is designed to help those who want to familiarize themselves with TensorFlow functions. Particulary, I focus on comparing TensorFlow functions with the equivalent functions in NumPy, the de facto standard numerical computation library. I hope this will help you get comfortable with TensorFlow quickly.
 
 The basic outline will be as follows, though this is not 100% fixed.
 
@@ -21,5 +21,6 @@ The basic outline will be as follows, though this is not 100% fixed.
 * Neural Network Part 1 (DONE)
 * Neural Network Part 2 (DONE)
 * Neural Network Part 3 (WIP)
+* Seq2Seq (DONE)
 
-To my knowledge, TensorFlow exercises are hard to find. Enjoy!
+Enjoy!
