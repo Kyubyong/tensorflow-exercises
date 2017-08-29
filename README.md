@@ -22,5 +22,6 @@ The basic outline will be as follows, though this is not 100% fixed.
 * Neural Network Part 2 (DONE)
 * Neural Network Part 3 (WIP)
 * Seq2Seq (DONE)
+* Audio_Processing (DONE)
 
 Enjoy!
